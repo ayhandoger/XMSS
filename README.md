@@ -11,7 +11,7 @@ Installation of the prototype XMSS vs.992:
 - Please uninstall any existing JDK or JRE installation (s) and
 
 
-# Step 2:
+# Step 2
 
 - Install the JDK version on the CD.
 - Since I have already done a few installations, here is a note: During the installation it sometimes happens that two 
