@@ -1,11 +1,11 @@
 # XMSS
  
-# You can download here the Demo Version of XMSS Vs. 0.9 (c) 2006 by N. A. Doger
+You can download here the Demo Version of XMSS Vs. 0.9 (c) 2006 by N. A. Doger
 
 # Installation notes:
 
-# Installation of the prototype XMSS vs.992
-# -------------------------------------------------- ---------------------
+Installation of the prototype XMSS vs.992
+-------------------------------------------------- ---------------------
 
 
 # Step 1:
