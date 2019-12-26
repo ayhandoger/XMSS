@@ -1,0 +1,22 @@
+<html><head><title>index</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+function openpop (url, komponente, weite, hoehe, scrollen)
+{
+ var fensterweite = weite;
+ var fensterhoehe = hoehe;
+
+ if (komponente == "bild")
+ {
+  fensterweite = parseInt (weite) -100;
+  fensterhoehe = parseInt (hoehe) +20;
+ }
+ window.open (url, komponente, "width="+fensterweite+",height="+fensterhoehe+",scrollbars="+scrollen);
+ }
+ </script></head><body leftmargin="0" topmargin="0" bgcolor="#ffffff" marginheight="0" marginwidth="0">
+<!-- ImageReady Slices (index.gif) -->
+<img src="xmss_main_map_browser_files/index_map.gif" alt="" usemap="#index_Map" border="0" height="1536" width="2048">
+<map name="index_Map"><area shape="rect" alt="Time Sheet" coords="134,948,464,1318" a="" onclick="openpop('timesheet.html','popup','400','400','no'); return false" target="_new"><area shape="rect" alt="Sells Markting" coords="156,570,464,854" a="" onclick="openpop('marketing.html','popup','400','400','no'); return false" target="_new"><area shape="rect" alt="Hypercube" coords="186,192,486,458" a="" onclick="openpop('hypercube.html','popup','400','400','no'); return false" target="_new"></map>
+<!-- End ImageReady Slices -->
+</body></html>
