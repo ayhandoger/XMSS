@@ -8,30 +8,27 @@ Installation of the prototype XMSS vs.992:
 
 # Step 1
 
-- Please uninstall any existing JDK or JRE installation (s) and
+- Please uninstall any existing JDK or JRE installation (s).
 
 
 # Step 2
 
-- Install the JDK version on the CD.
-- Since I have already done a few installations, here is a note: During the installation it sometimes happens that two 
-- Installations seem to run in parallel, ..., simply confirm everything.)
+- Install the current version of the JDK or J2EE from here https://www.java.com/de/download/
+- During the installation sometimes it seems to happen, that two installations  run in parallel (simply confirm everything).
 
 
 # Step 3
 
-- Please set the path variables under Control Panel-> System-> Advanced-> Environment Variables to the path of the bin folder 
-- in the JDK directory.
+- Please set the path variables in Windows via "Control Panel-> System-> Advanced-> Environment Variables" to the path of the bin folder in the JDK directory.
 
 
 # Step 4
 
-- Double-click in Windows Explorer or 
-- in the shell go to the directory XMSSvs992 and run
-- java XMSSMainFrame
+- open the directory XMSSvs992
+- Double-click in Windows Explorer on "XMSSMainFrame" or 
+- execute in the shell: "java XMSSMainFrame"
 
 # Video Introduction
 Here you can find a video (URL) introduction to the XMSS Prototype Vs. 0.9.
-(to view the prototype without the installation procedure ... please call the full screen mode ... 
-unfortunately the # recording is a bit lame and jerky...stay tuned :)
+(to view the prototype without the installation procedure ...)
 
